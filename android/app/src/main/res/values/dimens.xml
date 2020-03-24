@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_size">56dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="news_details_fab_bottom">80dp</dimen>
+    <dimen name="news_details_scroll_bottom">6dp</dimen>
+    <dimen name="bottom_toolbar_height">48dp</dimen>
+    <dimen name="bottom_toolbar_margin">16dp</dimen>
+    <dimen name="icon_border_size">30dp</dimen>
+</resources>

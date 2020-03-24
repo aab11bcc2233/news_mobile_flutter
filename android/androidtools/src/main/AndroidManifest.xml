@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.htphtp.tools" >
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <application>
+        <activity android:name="com.htphtp.tools.PermissionManagerActivity"
+            android:theme="@style/AppTheme.Transparent"/>
+    </application>
+</manifest>
